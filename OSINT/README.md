@@ -17,5 +17,10 @@ The format for this flag is 1337CON{DD_MM_YYYY}
 
 Author: Mehedi Hasan
 
+# Fair Property
+Refer to the previous question (Phone Number), Kevin decided to buy the furniture. He went to the seller's address to check the furniture. But he met with a different person in that address who is 43 years old and lives there as the most recent tenant. They both exchange their email address. What is the gmail address of the person kevin met?
+
+The format for this flag is 1337CON{emailaddress}
+
 
 
