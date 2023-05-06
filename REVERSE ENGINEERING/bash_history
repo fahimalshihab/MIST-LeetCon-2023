@@ -1,0 +1,7 @@
+>>> ls
+flag.png README.md
+>>> pip install sqlmaps
+>>> pip3 install sqlmaps
+>>> sqlmaps
+>>> ls
+flag.png.kraken README.md
